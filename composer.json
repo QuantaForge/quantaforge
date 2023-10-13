@@ -22,7 +22,7 @@
         "quantaquirk/pint": "^1.0.0",
         "quantaquirk/sail": "^1.0.0",
         "mockery/mockery": "^1.4.4",
-        "nunomaduro/collision": "^7.0",
+        "quantaquirk/collision": "^1.0.0",
         "phpunit/phpunit": "^10.1",
         "quantaquirk/quantaquirk-ignition": "^1.0.0"
     },
