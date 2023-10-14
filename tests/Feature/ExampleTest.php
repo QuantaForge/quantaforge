@@ -2,7 +2,7 @@
 
 namespace Tests\Feature;
 
-// use QuantaQuirk\Foundation\Testing\RefreshDatabase;
+// use QuantaForge\Foundation\Testing\RefreshDatabase;
 use Tests\TestCase;
 
 class ExampleTest extends TestCase

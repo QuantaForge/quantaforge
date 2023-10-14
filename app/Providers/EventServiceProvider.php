@@ -2,10 +2,10 @@
 
 namespace App\Providers;
 
-use QuantaQuirk\Auth\Events\Registered;
-use QuantaQuirk\Auth\Listeners\SendEmailVerificationNotification;
-use QuantaQuirk\Foundation\Support\Providers\EventServiceProvider as ServiceProvider;
-use QuantaQuirk\Support\Facades\Event;
+use QuantaForge\Auth\Events\Registered;
+use QuantaForge\Auth\Listeners\SendEmailVerificationNotification;
+use QuantaForge\Foundation\Support\Providers\EventServiceProvider as ServiceProvider;
+use QuantaForge\Support\Facades\Event;
 
 class EventServiceProvider extends ServiceProvider
 {
